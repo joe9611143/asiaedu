@@ -2849,4 +2849,56 @@ textarea {
     color: #fff;
 }
 
+/*----------------------------------------*/ 
+/*  17. table CSS
+/*----------------------------------------*/
+#table65{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+	
+	
+}
+#table66{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+	
+	
+}
 
+#table65 tr{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+}
+
+#table65 td{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+}
+
+#table66 tr{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+}
+
+#table66 td{
+	border-color:#aaaaee;
+	border-width:3px;
+	border-style:solid;
+	padding:5px;
+	
+}
